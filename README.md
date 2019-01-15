@@ -2,13 +2,13 @@
 
 ## Steps
 
-1 - Visit home;
-2 - Visit test;
-3 - Click in button with label 'BUTTON ERROR';
-4 - Wait for the infinite loop to occur;
+* 1 - Visit home;
+* 2 - Visit test;
+* 3 - Click in button with label 'BUTTON ERROR';
+* 4 - Wait for the infinite loop to occur;
 
 ## Evidence
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Sentry - Console](https://raw.githubusercontent.com/candidosales/sentry-error/master/sentry-error.png)
 
 
 
