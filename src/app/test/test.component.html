@@ -1,0 +1,11 @@
+<div style="text-align:center"><h1>Welcome to Teste!</h1></div>
+<button mat-stroked-button color="primary" (click)="throwError()">BUTTON</button>
+
+<ul>
+    <li>
+      <h2><a routerLink="/">Home</a></h2>
+    </li>
+    <li *ngFor="let starship of starships" >
+        <p>{{ starship.name }}</p>
+    </li>
+  </ul>
